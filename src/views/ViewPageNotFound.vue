@@ -1,3 +1,4 @@
+<!-- If page does not exist -->
 <template>
   <div class="text-center text-primary mt-5">
     <h1 class="text-h1 font-weight-regular">404</h1>
